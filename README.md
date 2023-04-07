@@ -1,2 +1,2 @@
 # Mind-Reader-Game
- Mind Reader game adalah sebuah game sederhana yang dibuat menggunakan python dengan mengandalkan teknik machine learning dasar
+ Mind Reader Game adalah sebuah game sederhana yang dibuat menggunakan Jupyter Notebook dengan mengandalkan teknik machine learning dasar
